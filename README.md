@@ -1,2 +1,2 @@
 # Vetor-de-Palavras
-Prova prática feita em python
+Prova prática feita em Python
